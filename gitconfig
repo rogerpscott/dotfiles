@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rogerpscott@gmail.com
+	name = Roger Scott
